@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/kjmagill/notes-evolved#readme",
   "dependencies": {
-    "apollo-server": "^2.11.0",
+    "apollo-server": "^2.25.3",
     "apollo-server-express": "^2.11.0",
     "cors": "^2.8.5",
     "dot-prop": "^5.2.0",
